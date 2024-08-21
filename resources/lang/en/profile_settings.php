@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'profile_settings' => 'Profile Settings',
+    'user_summary' => 'User Summary',
+    'name' => 'Name',
+    'email' => 'Email',
+    'gender' => 'Gender',
+    'male' => 'Male',
+    'female' => 'Female',
+    'phone' => 'Phone',
+    'job' => 'Job',
+    'username' => 'Username',
+    'update_profile' => 'Update Profile',
+    'reset_password' => 'Reset Password',
+    'current_password' => 'Current Password',
+    'new_password' => 'New Password',
+    'confirm_password' => 'Confirm Password',
+    'update_password' => 'Update Password',
+    'change_visibility' => 'Change Visibility',
+    'make_profile_visible' => 'Make my profile visible',
+    'pay_coins_invisible' => 'To make yourself invisible you need to pay :amount coins. Then your information will be hidden, and your profile picture will be changed.',
+    'pay_coins_visible' => 'To make yourself visible you need to pay :amount coins. Then your information will be shown, and your profile picture will return.',
+    'update_visibility' => 'Update Visibility',
+];

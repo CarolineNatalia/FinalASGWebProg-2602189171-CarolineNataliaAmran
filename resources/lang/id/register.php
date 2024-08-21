@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'title' => 'Daftar',
+    'email' => 'Alamat Email',
+    'password' => 'Kata Sandi',
+    'gender' => 'Jenis Kelamin',
+    'select_gender' => 'Pilih Jenis Kelamin',
+    'male' => 'Pria',
+    'female' => 'Wanita',
+    'linkedin' => 'Tautan LinkedIn',
+    'mobile' => 'Nomor Ponsel',
+    'job' => 'Pekerjaan Saat Ini',
+    'select_job' => 'Pilih Pekerjaan',
+    'developer' => 'Pengembang',
+    'designer' => 'Desainer',
+    'product_manager' => 'Manajer Produk',
+    'other' => 'Lainnya',
+    'registration_cost' => 'Biaya Pendaftaran',
+    'register' => 'Daftar',
+    'name' => 'Nama',
+    'already_have_account' => 'Sudah memiliki akun?',
+    'fields_selection' => 'Pilih Bidang',
+    'select_fields' => 'Pilih Bidang',
+];

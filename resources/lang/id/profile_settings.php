@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'profile_settings' => 'Pengaturan Profil',
+    'user_summary' => 'Ringkasan Pengguna',
+    'name' => 'Nama',
+    'email' => 'Email',
+    'gender' => 'Jenis Kelamin',
+    'male' => 'Laki-laki',
+    'female' => 'Perempuan',
+    'phone' => 'Telepon',
+    'job' => 'Pekerjaan',
+    'username' => 'Nama Pengguna',
+    'update_profile' => 'Perbarui Profil',
+    'reset_password' => 'Atur Ulang Kata Sandi',
+    'current_password' => 'Kata Sandi Saat Ini',
+    'new_password' => 'Kata Sandi Baru',
+    'confirm_password' => 'Konfirmasi Kata Sandi',
+    'update_password' => 'Perbarui Kata Sandi',
+    'change_visibility' => 'Ubah Visibilitas',
+    'make_profile_visible' => 'Buat profil saya terlihat',
+    'pay_coins_invisible' => 'Untuk membuat diri Anda tidak terlihat, Anda perlu membayar :amount koin. Kemudian informasi Anda akan disembunyikan, dan foto profil Anda akan diubah.',
+    'pay_coins_visible' => 'Untuk membuat diri Anda terlihat, Anda perlu membayar :amount koin. Kemudian informasi Anda akan ditampilkan, dan foto profil Anda akan kembali.',
+    'update_visibility' => 'Perbarui Visibilitas',
+];

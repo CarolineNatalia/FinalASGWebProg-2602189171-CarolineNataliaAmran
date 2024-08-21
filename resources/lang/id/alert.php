@@ -1,0 +1,22 @@
+<?php
+return [
+    'registration_paid' => 'Pendaftaran berhasil dibayar',
+    'registration_underpaid' => 'Anda masih kurang bayar :amount',
+    'registration_success' => 'Anda telah berhasil mendaftar',
+    'invalid_login' => 'Detail login tidak valid',
+    'avatar_purchased' => 'Avatar berhasil dibeli',
+    'message_sent' => 'Pesan berhasil dikirim',
+    'coins_added' => 'Koin berhasil ditambahkan',
+    'friend_added' => 'Teman berhasil ditambahkan',
+    'friend_removed' => 'Teman berhasil dihapus',
+    'profile_updated' => 'Profil berhasil diperbarui',
+    'password_updated' => 'Kata sandi berhasil diperbarui',
+    'visibility_updated' => 'Visibilitas profil berhasil diperbarui',
+    'not_enough_coins' => 'Anda tidak memiliki cukup koin untuk menyelesaikan tindakan ini',
+    'avatar_already_owned' => 'Anda sudah memiliki avatar ini',
+    'avatar_not_owned' => 'Anda tidak memiliki avatar ini',
+    'profile_already_private' => 'Profil Anda sudah bersifat pribadi',
+    'profile_already_public' => 'Profil Anda sudah bersifat publik',
+    'friend_not_found' => 'Teman tidak ditemukan',
+    'not_friends' => 'Anda tidak berteman dengan pengguna ini',
+];
